@@ -4,6 +4,8 @@ Introduction
 The CHERMUG project aims to develop a digital game to support students in learning about research methods and statistics. The main activity to achieve this goal is the design, development and deployment of an educational game to support teachers in research methods courses.
 
 
+<a href="https://github.com/chermug/quantitative/blob/master/Dutch/Geslacht%20en%20gekozen%20beloning%20(gender%20and%20reward)%20.zip?raw=true">TEST</a>
+
 
 Quantitative Data Analysis Game
 ===============================
